@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.0.0/schema.json",
+  "name": "7c552cad11999db18fd8",
+  "displayName": "Playgrounds",
+  "displayOption": "FitToPage",
+  "height": 1080,
+  "width": 1920
+}

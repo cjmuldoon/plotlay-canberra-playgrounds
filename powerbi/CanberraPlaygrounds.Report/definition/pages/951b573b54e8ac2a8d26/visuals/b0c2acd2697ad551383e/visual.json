@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "b0c2acd2697ad551383e",
+  "position": {
+    "x": 40,
+    "y": 1030,
+    "z": 99,
+    "height": 39,
+    "width": 1840,
+    "tabOrder": 99
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Playgrounds: ACT Government, ACTGOV Playground Assets (CC BY 4.0). Paths and streets: OpenStreetMap contributors (ODbL), extract of 22 November 2026. Children: ABS 2021 Census (CC BY 4.0), each mesh block’s residents times its SA1’s share aged 0 to 14. The walk: 400 m along the paths at 4.8 km/h, worked out in Plotlay (getplotlay.com).",
+                    "textStyle": {
+                      "fontSize": "8.5pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

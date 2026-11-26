@@ -1,0 +1,3 @@
+relationship 627c568a-0d46-05e8-476e-8cf99c0c1911
+	fromColumn: MeshBlocks.district
+	toColumn: Districts.district

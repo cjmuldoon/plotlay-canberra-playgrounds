@@ -1,0 +1,44 @@
+How many Canberra children live within a five-minute walk of a playground?
+The ACT Government's 537 public playgrounds, Canberra's mesh blocks with their children aged 0 to 14 (2021 Census), and
+a five-minute walk along OpenStreetMap's paths from every playground, set beside a 400 m circle round each.
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+This repository contains code, data we made, and data from the sources below.
+
+CODE
+  The notebook, the scripts and the Power BI project (its Power Query, DAX and report files) are licensed under the
+  MIT licence (LICENSE).
+
+DATA (data/)
+  The street lengths and the shares within the walk and within the circles in data/tables/ and
+  data/geometry/meshblocks.geojson are made from OpenStreetMap, which is under the Open Database Licence, so data/ is
+  licensed under the Open Database Licence 1.0 (LICENSE-DATA): if you publicly use a database made from it, offer that
+  database under the ODbL too. The exception is data/geometry/playgrounds.geojson, the ACT Government's points with
+  some of their attributes, which stays under Creative Commons Attribution 4.0. Please credit: "Canberra playgrounds:
+  Plotlay (getplotlay.com), from ACT Government and ABS data and OpenStreetMap contributors".
+
+VISUALS (visuals/)
+  The charts and map pictures were made in Plotlay from these tables (Produced Works). They are licensed under
+  Creative Commons Attribution 4.0 International. Keep this credit with them: "Plotlay (getplotlay.com). Playgrounds:
+  ACT Government, CC BY 4.0. Children: ABS 2021 Census, CC BY 4.0. Paths and streets: (c) OpenStreetMap contributors,
+  ODbL. Map: Protomaps."
+
+UPSTREAM SOURCES AND CHANGES
+  ACTGOV Playground Assets (ACT Government, dataACT), last updated 28 March 2026. Creative Commons Attribution 4.0
+    (Australian Capital Territory).
+    https://www.data.act.gov.au/Infrastructure-and-Utilities/ACTGOV-Playground-Assets/e4ug-7r3x
+    Changed: names and kinds put in title case; the suburb as recorded; the street length within each playground's
+    own 5-minute walk added.
+  Australian Bureau of Statistics: 2021 Census of Population and Housing, mesh block counts, and General Community
+    Profile DataPack, SA1 for the ACT, table G04 (age by single year). Creative Commons Attribution 4.0 International.
+    Source: Australian Bureau of Statistics. https://www.abs.gov.au/census/find-census-data/datapacks
+    Changed: each mesh block's children aged 0 to 14 estimated as its residents times its SA1's share aged 0 to 14.
+    ABS data used with permission from the Australian Bureau of Statistics.
+  Australian Bureau of Statistics: Australian Statistical Geography Standard (ASGS) Edition 3, mesh blocks, SA1s, SA3s
+    and suburbs and localities, 2021. Creative Commons Attribution 4.0 International.
+    https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3
+    Changed: Canberra's mesh blocks with residents and under 1 km2 kept, each given its suburb (the suburb its middle
+    falls in) and its SA3 as district; coordinates rounded to six decimals.
+  OpenStreetMap (c) OpenStreetMap contributors, Open Database Licence 1.0, extract of 22 November 2026 from Geofabrik.
+    https://www.openstreetmap.org/copyright
+    Changed: the walkable ways round Canberra used to work out the walk; no OpenStreetMap geometry is copied here.

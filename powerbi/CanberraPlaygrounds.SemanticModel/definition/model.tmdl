@@ -1,0 +1,16 @@
+model Model
+	culture: en-AU
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-AU
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["DataFolder","GetFile","MeshBlocks","Suburbs","Districts","Playgrounds"]
+
+ref table MeshBlocks
+ref table Suburbs
+ref table Districts
+ref table Playgrounds
+
+ref cultureInfo en-AU

@@ -1,0 +1,211 @@
+table MeshBlocks
+	lineageTag: 8237165a-80c9-2b5c-531d-008ae7917017
+
+	/// Children aged 0 to 14 (each mesh block’s residents times its SA1’s share aged 0 to 14)
+	measure 'All children' = SUM ( MeshBlocks[children] )
+		formatString: #,0
+		lineageTag: 9a878128-fabb-7fe3-8576-d4d8e14ce3d0
+
+	/// Children within a 5-minute walk (400 m along the paths) of a playground
+	measure 'Children within the walk' = SUM ( MeshBlocks[children_walk5] )
+		formatString: #,0
+		lineageTag: 690a2ef8-1d00-a9e7-41e8-da90e3b7befb
+
+	/// The share of children within a 5-minute walk
+	measure 'Share within the walk' = DIVIDE ( [Children within the walk], [All children] )
+		formatString: 0.0%
+		lineageTag: 2b95bcf1-cafe-c82f-defe-2c414653c0f9
+
+	/// The share of children within 400 m in a straight line
+	measure 'Share as the crow flies' = DIVIDE ( SUM ( MeshBlocks[children_line5] ), [All children] )
+		formatString: 0.0%
+		lineageTag: 575daba1-ef79-3ff2-66b7-71d609b2ba27
+
+	/// The share of children within a 10-minute walk (800 m)
+	measure 'Share within 10 minutes' = DIVIDE ( SUM ( MeshBlocks[children_walk10] ), [All children] )
+		formatString: 0.0%
+		lineageTag: dba7c2ef-0418-9cad-618f-d9657d0dff94
+
+	/// Mesh blocks with residents
+	measure 'Mesh block count' = COUNTROWS ( MeshBlocks )
+		formatString: #,0
+		lineageTag: e7a204ef-2c27-aada-2289-ec2f7bcb48f3
+
+	column mb
+		dataType: string
+		lineageTag: 8b006f32-2d79-bf7d-265e-91b5cf0b7ed4
+		summarizeBy: none
+		sourceColumn: mb
+
+		annotation SummarizationSetBy = Automatic
+
+	column suburb
+		dataType: string
+		lineageTag: 61d2ed1f-adb4-0e34-316e-7afd80ce7a69
+		summarizeBy: none
+		sourceColumn: suburb
+
+		annotation SummarizationSetBy = Automatic
+
+	column district
+		dataType: string
+		lineageTag: 5188ba82-bb6c-4440-d625-35d33fc75179
+		summarizeBy: none
+		sourceColumn: district
+
+		annotation SummarizationSetBy = Automatic
+
+	column category
+		dataType: string
+		lineageTag: 7545c508-1ee7-f035-307c-634b16604ddc
+		summarizeBy: none
+		sourceColumn: category
+
+		annotation SummarizationSetBy = Automatic
+
+	column dwellings
+		dataType: int64
+		formatString: #,0
+		lineageTag: b3c0500d-b0c2-33fc-43f2-2cb8548c120c
+		summarizeBy: none
+		sourceColumn: dwellings
+
+		annotation SummarizationSetBy = Automatic
+
+	column residents
+		dataType: int64
+		formatString: #,0
+		lineageTag: 4dcc4ee0-1629-a55e-8492-ca5f8a055959
+		summarizeBy: none
+		sourceColumn: residents
+
+		annotation SummarizationSetBy = Automatic
+
+	column children
+		dataType: double
+		formatString: #,0.0
+		lineageTag: cc4f5be7-fddc-04d7-f035-055527453025
+		summarizeBy: none
+		sourceColumn: children
+
+		annotation SummarizationSetBy = Automatic
+
+	column network_m
+		dataType: int64
+		formatString: #,0
+		lineageTag: d3a86724-786b-ebc2-f612-cf9fc4fe0bb9
+		summarizeBy: none
+		sourceColumn: network_m
+
+		annotation SummarizationSetBy = Automatic
+
+	column reached_m
+		dataType: int64
+		formatString: #,0
+		lineageTag: 951792cf-965e-dacd-d1f3-62bae133c304
+		summarizeBy: none
+		sourceColumn: reached_m
+
+		annotation SummarizationSetBy = Automatic
+
+	column straight_m
+		dataType: int64
+		formatString: #,0
+		lineageTag: 33bf0d04-93ac-a934-26f3-add6ba193ab9
+		summarizeBy: none
+		sourceColumn: straight_m
+
+		annotation SummarizationSetBy = Automatic
+
+	column pct_streets_walk5
+		dataType: double
+		formatString: 0.0
+		lineageTag: 0dfea924-9446-eb96-a7a2-48aed440789c
+		summarizeBy: none
+		sourceColumn: pct_streets_walk5
+
+		annotation SummarizationSetBy = Automatic
+
+	column pct_streets_line5
+		dataType: double
+		formatString: 0.0
+		lineageTag: 3b2b864c-4c96-a567-973b-25abdbaf0fb2
+		summarizeBy: none
+		sourceColumn: pct_streets_line5
+
+		annotation SummarizationSetBy = Automatic
+
+	column pct_streets_walk10
+		dataType: double
+		formatString: 0.0
+		lineageTag: 280b925d-b006-8c42-7c07-ebc17d74061e
+		summarizeBy: none
+		sourceColumn: pct_streets_walk10
+
+		annotation SummarizationSetBy = Automatic
+
+	column children_walk5
+		dataType: double
+		formatString: #,0.0
+		lineageTag: 83c57f8b-ab43-d1c9-299f-0e7690a7c7f4
+		summarizeBy: none
+		sourceColumn: children_walk5
+
+		annotation SummarizationSetBy = Automatic
+
+	column children_line5
+		dataType: double
+		formatString: #,0.0
+		lineageTag: f4af1c57-f258-2be6-9f94-a99244ec79fe
+		summarizeBy: none
+		sourceColumn: children_line5
+
+		annotation SummarizationSetBy = Automatic
+
+	column children_walk10
+		dataType: double
+		formatString: #,0.0
+		lineageTag: 7b454e98-2733-4095-03cb-71b5aaf24d1b
+		summarizeBy: none
+		sourceColumn: children_walk10
+
+		annotation SummarizationSetBy = Automatic
+
+	column walk_band
+		dataType: string
+		lineageTag: 1d3e3136-b9dd-9892-00d6-1a1c1cc833fc
+		summarizeBy: none
+		sourceColumn: walk_band
+
+		annotation SummarizationSetBy = Automatic
+
+	column lat
+		dataType: double
+		formatString: 0.00000
+		lineageTag: 33aeae4a-d7f7-05ca-d277-e682102df170
+		summarizeBy: none
+		sourceColumn: lat
+
+		annotation SummarizationSetBy = Automatic
+
+	column lng
+		dataType: double
+		formatString: 0.00000
+		lineageTag: 1b7abb63-5ff0-6139-107b-ee485c2aa747
+		summarizeBy: none
+		sourceColumn: lng
+
+		annotation SummarizationSetBy = Automatic
+
+	partition MeshBlocks = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(GetFile("tables/meshblocks.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Kept = Table.SelectColumns(Promoted, {"mb", "suburb", "district", "category", "dwellings", "residents", "children", "network_m", "reached_m", "straight_m", "pct_streets_walk5", "pct_streets_line5", "pct_streets_walk10", "children_walk5", "children_line5", "children_walk10", "walk_band", "lat", "lng"}),
+				    Typed = Table.TransformColumnTypes(Kept, {{"mb", type text}, {"suburb", type text}, {"district", type text}, {"category", type text}, {"dwellings", Int64.Type}, {"residents", Int64.Type}, {"children", type number}, {"network_m", Int64.Type}, {"reached_m", Int64.Type}, {"straight_m", Int64.Type}, {"pct_streets_walk5", type number}, {"pct_streets_line5", type number}, {"pct_streets_walk10", type number}, {"children_walk5", type number}, {"children_line5", type number}, {"children_walk10", type number}, {"walk_band", type text}, {"lat", type number}, {"lng", type number}}, "en-US")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

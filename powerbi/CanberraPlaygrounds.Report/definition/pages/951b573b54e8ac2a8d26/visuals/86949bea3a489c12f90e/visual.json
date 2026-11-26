@@ -1,0 +1,281 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "86949bea3a489c12f90e",
+  "position": {
+    "x": 980,
+    "y": 133,
+    "z": 1,
+    "height": 877,
+    "width": 900,
+    "tabOrder": 1
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Suburbs"
+                    }
+                  },
+                  "Property": "suburb"
+                }
+              },
+              "queryRef": "Suburbs.suburb",
+              "nativeQueryRef": "suburb",
+              "displayName": "Suburb"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Suburbs"
+                    }
+                  },
+                  "Property": "children"
+                }
+              },
+              "queryRef": "Suburbs.children",
+              "nativeQueryRef": "children",
+              "displayName": "Children 0 to 14"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Suburbs"
+                    }
+                  },
+                  "Property": "playgrounds"
+                }
+              },
+              "queryRef": "Suburbs.playgrounds",
+              "nativeQueryRef": "playgrounds",
+              "displayName": "Playgrounds"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Suburbs"
+                    }
+                  },
+                  "Property": "pct_walk5"
+                }
+              },
+              "queryRef": "Suburbs.pct_walk5",
+              "nativeQueryRef": "pct_walk5",
+              "displayName": "Within the walk (%)"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Suburbs"
+                    }
+                  },
+                  "Property": "pct_line5"
+                }
+              },
+              "queryRef": "Suburbs.pct_line5",
+              "nativeQueryRef": "pct_line5",
+              "displayName": "As the crow flies (%)"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Suburbs"
+                    }
+                  },
+                  "Property": "pct_walk10"
+                }
+              },
+              "queryRef": "Suburbs.pct_walk10",
+              "nativeQueryRef": "pct_walk10",
+              "displayName": "Within 10 minutes (%)"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Suburbs"
+                  }
+                },
+                "Property": "children"
+              }
+            },
+            "direction": "Descending"
+          }
+        ]
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Every suburb, most children first'"
+                }
+              }
+            },
+            "titleWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Segoe UI Semibold'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "234.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Suburbs.suburb"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "124.9D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Suburbs.children"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "169.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Suburbs.playgrounds"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "108.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Suburbs.pct_walk5"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "108.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Suburbs.pct_line5"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "120.8D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Suburbs.pct_walk10"
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

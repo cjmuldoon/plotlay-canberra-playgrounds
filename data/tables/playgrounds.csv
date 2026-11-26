@@ -1,0 +1,538 @@
+asset_id,name,kind,shade,suburb,surface_m2,lat,lng,walk5_street_m,walk5_area_m2,snap_m
+PLGR508,Moonlight Avenue Neighbourhood Park,Local Neighbourhood,Poor,Harrison,385.1,-35.189095,149.155969,6349,291485,10
+PLGR517,Mary Kitson Street Neighbourhood Park,Local Neighbourhood,Poor,Watson,314.9,-35.232309,149.15929,3970,222770,7
+PLGR514,Hannah Place Neighbourhood Park,Local Neighbourhood,No Shade,Deakin,423.6,-35.314141,149.104742,1574,123429,10
+PLGR516,Charlotte Barton St Neighbourhood Park,Local Neighbourhood,Good,Franklin,346.6,-35.205591,149.14181,4921,227335,6
+PLGR518,Mary Gillispie Avenue Pedestrian Parkland,Local Neighbourhood,Fair,Gungahlin,335.6,-35.187418,149.151314,7248,275715,10
+PLGR519,Ansett Street Pedestrian Parkland,Local Neighbourhood,Fair,Gungahlin,280.6,-35.184725,149.152452,5495,221491,11
+PLGR635,Samaria Street Neighbourhood Park,Local Neighbourhood,No Shade,Crace,728.3,-35.202214,149.1122,3297,237810,17
+PLGR636,Thadoona Street Neighbourhood Park,Local Neighbourhood,Moderate,Crace,173.0,-35.202013,149.109374,3758,253546,5
+PLGR629,Turbayne Crescent Neighbourhood Park,Local Neighbourhood,,Forde,230.6,-35.163078,149.148701,3125,185321,5
+PLGR633,Carmody Street Pedestrian Parkland,Local Neighbourhood,,Casey,263.5,-35.17592,149.087937,3522,176992,8
+PLGR634,Wighton Terrace Pedestrian Parkland,Local Neighbourhood,,Casey,243.5,-35.168935,149.090294,2340,122377,8
+PLGR628,Refshauge Crescent Neighbourhood Park,Local Neighbourhood,Good,Macgregor,230.6,-35.204993,149.002497,3403,206574,8
+PLGR638,Dillon Close Pedestrian Parkland,Local Neighbourhood,No Shade,Weston,113.9,-35.337546,149.053893,2661,220232,5
+PLGR630,John Holt Street Neighbourhood Park,Local Neighbourhood,Good,Macgregor,207.4,-35.20788,149.005908,1919,177697,7
+PLGR637,Volpato Street Neighbourhood Park,Local Neighbourhood,Good,Forde,343.8,-35.160346,149.149004,3185,183558,8
+PLGR645,Don Bell Street Neighbourhood Park,Local Neighbourhood,Good,Bonner,335.3,-35.155724,149.139533,2738,218056,14
+PLGR644,Calwell Shopping Centre,Local Neighbourhood,Poor,Calwell,220.6,-35.434631,149.113743,2988,171154,12
+PLGR596,Elizabeth Jolley Crescent Neighbourhood Park,Local Neighbourhood,Good,Franklin,266.5,-35.188716,149.145262,4237,203017,6
+PLGR677,Fullston Way Pedestrian Parkland,Local Neighbourhood,,Holt,241.8,-35.228102,148.999427,2439,181458,8
+PLGR676,Bon Scott Crip Park,Central Community,,Moncrieff,1394.6,-35.155636,149.120947,3957,262350,9
+PLGR669,Wanderlight Avenue Neibourhood Park,Central Community,Good,Lawson,433.2,-35.229353,149.091672,3347,213298,5
+PLGR672,Birrell Street Neighbourhood Park,Local Neighbourhood,Fair,Page,272.4,-35.238109,149.053355,3605,180960,12
+PLGR682,Telfer Street Neighbourhood Park,Local Neighbourhood,Good,Coombs,379.8,-35.313036,149.033235,4838,237763,15
+PLGR686,Longerenong Street Pedestrian Parkland,Local Neighbourhood Natural,,Farrer,2879.1,-35.376238,149.103235,2748,171190,30
+PLGR231,Deamer Cerescent Pedestrian Parkland,Local Neighbourhood,Fair,Chisholm,243.4,-35.427241,149.12902,1670,156311,8
+PLGR232,Heagney Crescent Neighbourhood Park,Local Neighbourhood,Good,Chisholm,283.3,-35.423968,149.134288,3324,204056,14
+PLGR233,Dalyell Street Pedestrian Parkland,Local Neighbourhood,Fair,Chisholm,297.3,-35.422286,149.116881,1892,164883,13
+PLGR234,Alston Street Neighbourhood Park,Local Neighbourhood,Poor,Chisholm,944.4,-35.42118,149.121762,1567,105422,57
+PLGR235,Kirkcaldie Circuit Pedestrian Parkland,Local Neighbourhood,Good,Chisholm,163.9,-35.414968,149.120976,2554,182892,15
+PLGR236,Proctor Street Neighbourhood Park,Local Neighbourhood,Poor,Chisholm,257.1,-35.414946,149.124207,2399,143908,40
+PLGR237,Heagney Crescent Neighbourhood Park,Local Neighbourhood,Fair,Gilmore,142.3,-35.418301,149.135472,2910,168100,8
+PLGR238,Hogue Place Pedestrian Parkland,Local Neighbourhood,Good,Gilmore,184.0,-35.420083,149.138666,3006,189372,10
+PLGR239,Rosman Circuit Neighbourhood Park,Local Neighbourhood,Fair,Gilmore,214.6,-35.421297,149.142209,95,60184,23
+PLGR24,Elliott Place Neighbourhood Park,Local Neighbourhood,Fair,Campbell,327.4,-35.292242,149.152906,2965,205776,26
+PLGR240,De Little Circuit Central Community Playground,Central Community,Fair,Greenway,760.6,-35.402802,149.072405,2082,159625,1
+PLGR242,Tuggeranong Town Park,District,Fair,Greenway,2368.3,-35.411033,149.06534,1124,156061,26
+PLGR243,Marquet Retreat Neighbourhood Park,Local Neighbourhood,Fair,Bonython,261.8,-35.429526,149.078355,3443,221564,11
+PLGR244,Russel Drysdale Crescent Neighbouhood Park,Local Neighbourhood,Fair,Conder,150.7,-35.456823,149.101531,3157,207645,5
+PLGR245,Hussey Cove Neighbourhood Park,Local Neighbourhood,Poor,Bonython,203.9,-35.436645,149.086938,3371,211245,9
+PLGR247,Cockroft Avenue Neighbourhood Park,Local Neighbourhood,Fair,Monash,158.1,-35.419255,149.09718,1838,173346,20
+PLGR248,Charleston Street Neighbourhood Park,Local Neighbourhood,No Shade,Monash,325.9,-35.418537,149.083074,1506,156183,13
+PLGR249,William Hudson Crescent Road Median,Local Neighbourhood,Fair,Monash,338.2,-35.419721,149.07796,1474,115409,25
+PLGR25,Garsia Street Neighbourhood Park,Local Neighbourhood,Fair,Campbell,232.1,-35.288209,149.148713,2991,175982,26
+PLGR250,Hallstrom Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Monash,225.6,-35.415669,149.082283,1570,149843,7
+PLGR251,Clive Steele Avenue Pedestrian Parkland,Local Neighbourhood,Fair,Monash,263.6,-35.418123,149.089603,2267,184408,10
+PLGR252,Alabaster Street Neighbouhood Park,Local Neighbourhood,Good,Monash,386.3,-35.413831,149.092095,1623,119799,9
+PLGR254,Victor Place Neighbourhood Park,Local Neighbourhood,Good,Monash,321.8,-35.409378,149.096564,2405,185774,14
+PLGR255,Newman Morris Circuit Neighbourhood Park,Local Neighbourhood,Good,Oxley,239.6,-35.406507,149.078649,2189,132802,26
+PLGR256,Cuthbertson Street Mckibbin Pl Semi Natural Open S,Local Neighbourhood,Fair,Oxley,211.2,-35.409994,149.079172,544,134954,6
+PLGR257,Vidal Street Neighbourhood Park,Local Neighbourhood,Good,Richardson,215.5,-35.43129,149.120968,3059,164614,28
+PLGR258,Chauncy Crescent Pedestrian Parkland,Local Neighbourhood,Poor,Richardson,115.2,-35.431965,149.114111,1062,126252,9
+PLGR259,Clift Crescent Pedestrian Parkland,Local Neighbourhood,No Shade,Richardson,607.6,-35.427183,149.115058,3389,213374,5
+PLGR26,Victoria Cross Park,Local Neighbourhood,Fair,Campbell,229.2,-35.284729,149.156057,3017,198254,8
+PLGR261,Louis Loder Street Pedestrian Parkland,Local Neighbourhood,No Shade,Theodore,180.6,-35.447019,149.114417,2126,137054,4
+PLGR262,Lawrence Wackett Crescent Neighbourhood Park,Local Neighbourhood,Good,Theodore,284.2,-35.44493,149.12219,758,82193,38
+PLGR263,Chippindall Circuit Neighbourhod Park,Local Neighbourhood,Fair,Theodore,294.8,-35.449793,149.120656,2553,184217,30
+PLGR264,Scantlebury Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Theodore,373.9,-35.442273,149.123426,3993,194472,4
+PLGR265,Dyett Circuit Neighbouhood Park,Local Neighbourhood,Good,Theodore,254.7,-35.454211,149.118165,2820,167428,5
+PLGR266,Lansell Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Wanniassa,165.2,-35.404746,149.102838,3004,173057,27
+PLGR267,Bussau Close Pedestrian Parkland,Local Neighbourhood,Fair,Wanniassa,181.7,-35.4005,149.09933,3666,203391,9
+PLGR268,Sullivan Crescent Neighbourhood Park,Local Neighbourhood,Fair,Wanniassa,347.0,-35.396516,149.101261,1406,85255,17
+PLGR269,Sainsbury Street Neighbourhood Park,Local Neighbourhood,Fair,Wanniassa,316.7,-35.388513,149.095714,2805,169581,49
+PLGR27,White Crescent (west) Neighbourhood Park,Local Neighbourhood,Fair,Campbell,214.6,-35.289175,149.154529,2551,182735,9
+PLGR270,Billson Place Pedestrian Parkland,Local Neighbourhood,Fair,Wanniassa,282.5,-35.392879,149.094353,2708,207650,14
+PLGR271,Sangster Place Shopping Centre,Central Community,Good,Wanniassa,692.2,-35.390649,149.085664,3970,225160,18
+PLGR272,Whiteman Street Pedestrian Parkland,Local Neighbourhood,Fair,Wanniassa,102.3,-35.400522,149.094323,2323,133217,23
+PLGR273,Halfrey Circuit (ata Styles Pl) Neighbourhood Par,Local Neighbourhood,Fair,Wanniassa,308.5,-35.398979,149.092073,1552,91697,7
+PLGR274,Wheeler Crescent Neighbourhood Park,Local Neighbourhood,Fair,Wanniassa,243.6,-35.400096,149.075584,1867,171910,41
+PLGR275,Hervey Place Pedestrian Parkland,Local Neighbourhood,Fair,Wanniassa,308.5,-35.400464,149.079521,3687,249500,7
+PLGR276,Steinfield Court Neighbourhood Park,Local Neighbourhood,Fair,Wanniassa,266.0,-35.40286,149.08422,4345,276744,15
+PLGR277,Watkins Street Neighbourhood Park,Local Neighbourhood,Fair,Wanniassa,283.7,-35.404163,149.088045,3239,220231,32
+PLGR279,Evan Place Neighbourhood Park,Local Neighbourhood,No Shade,Gordon,170.3,-35.451655,149.082517,3009,167898,9
+PLGR28,Cobby Street Neighbourhood Park,Local Neighbourhood,Fair,Campbell,307.4,-35.281329,149.15619,1811,167639,28
+PLGR280,Findon Place Neighbourhood Park,Local Neighbourhood,Good,Isabella Plains,521.9,-35.424628,149.09936,2750,167188,16
+PLGR281,Keverston Circuit Neighbourhood Park,Local Neighbourhood,Poor,Isabella Plains,198.5,-35.433661,149.092329,2427,180165,8
+PLGR282,Yabtree Place Neighbourhood Park,Local Neighbourhood,Fair,Isabella Plains,175.4,-35.430615,149.09741,2919,177808,6
+PLGR283,Manneheim Street Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,279.9,-35.382687,149.07225,2789,203168,24
+PLGR284,Gibbs Place Pedestrian Parkland,Local Neighbourhood,Good,Kambah,229.2,-35.382326,149.069783,2291,189535,10
+PLGR285,Marconi Crescent Neighbourhood Park,Local Neighbourhood,Fair,Kambah,293.6,-35.3786,149.066243,2964,198081,12
+PLGR286,Lascelles Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,320.9,-35.382687,149.062298,2231,199523,17
+PLGR287,Haskett Street Neighbourhood Park,Local Neighbourhood,Fair,Kambah,191.2,-35.376464,149.062741,2964,204292,26
+PLGR288,Crafer Place Neighbourhood Park,Local Neighbourhood,Fair,Kambah,226.7,-35.376945,149.059329,3074,183311,23
+PLGR289,Horton Close Pedestrian Parkland,Local Neighbourhood,No Shade,Kambah,258.1,-35.387567,149.087367,2971,168879,25
+PLGR291,Deuchar Close Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,149.0,-35.386563,149.089797,1990,171452,12
+PLGR292,Mckillop Place Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,327.2,-35.391354,149.05177,3360,226111,22
+PLGR293,Vanzetti Crescent Neighbourhood Park,Local Neighbourhood,Fair,Kambah,345.8,-35.392369,149.072724,2880,173461,15
+PLGR294,Crouch Place Neighbourhood Park,Local Neighbourhood,Fair,Kambah,310.8,-35.392861,149.055582,2853,200464,28
+PLGR296,Mcleod Place Neighbourhood Park,Local Neighbourhood,Fair,Kambah,107.3,-35.390802,149.055481,3316,240521,8
+PLGR298,Brimage Place Neighbourhood Park,Local Neighbourhood,Fair,Kambah,199.6,-35.385031,149.06759,3263,221063,9
+PLGR299,Coghill Close Pedestrian Parkland,Local Neighbourhood,No Shade,Kambah,180.6,-35.385644,149.08752,3087,180985,15
+PLGR3,Rutherford Crescent Neighbourhood Park,Local Neighbourhood,Good,Ainslie,342.5,-35.257776,149.149455,2753,165271,10
+PLGR30,Lowanna Street Neighbourhood Park,Local Neighbourhood,Fair,Braddon,384.5,-35.264871,149.133864,2906,217181,8
+PLGR300,Boddington Crescent (south) Neighbourhood Park,Local Neighbourhood,Fair,Kambah,348.2,-35.389218,149.051947,4124,260155,23
+PLGR301,Boustead Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,93.1,-35.389759,149.049597,3556,231172,17
+PLGR302,Pinkerton Circuit Neighbourhood Park,Local Neighbourhood,Fair,Kambah,291.9,-35.398373,149.0654,1979,156289,18
+PLGR303,Rounsevell Street Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,215.2,-35.395544,149.047743,1637,119115,18
+PLGR304,Dale Circuit Neighbourhood Park,Local Neighbourhood,Fair,Kambah,273.0,-35.398656,149.061942,2545,162050,36
+PLGR306,Primmer Court,Local Neighbourhood,Good,Kambah,762.7,-35.380077,149.058113,2626,144937,33
+PLGR307,Humble Court Neighbourhood Park,Local Neighbourhood,Fair,Kambah,240.2,-35.384163,149.079822,1395,102006,33
+PLGR308,Maxworthy Street Neighbourhood Aprk,Local Neighbourhood,Fair,Kambah,242.7,-35.387453,149.077202,2337,161766,59
+PLGR309,Livingston Avenue Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,136.4,-35.389589,149.078186,4174,218215,6
+PLGR31,Glebe Park Town Park,Central Community,Good,City,249.2,-35.281195,149.135781,4819,290057,9
+PLGR310,Oldfield Circuit Neighbourhood Park,Local Neighbourhood,Fair,Kambah,259.9,-35.388088,149.082492,3071,188722,16
+PLGR311,Ammon Place Neighbourhood Park,Local Neighbourhood,Fair,Kambah,260.4,-35.372358,149.062191,2326,183309,7
+PLGR312,Allchin Circuit Neighbourhood Park,Local Neighbourhood,Fair,Kambah,337.0,-35.375883,149.043138,2576,225887,19
+PLGR313,Attiwell Circuit Neighbourhood Park,Local Neighbourhood,Poor,Kambah,250.7,-35.377653,149.053198,3499,228710,7
+PLGR314,Btwn Buckley Cct And Barritt St Pedestrian Parklan,Local Neighbourhood,Fair,Kambah,238.6,-35.379061,149.049511,3737,221521,12
+PLGR315,Faithfull Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,332.9,-35.380805,149.04671,1829,154629,34
+PLGR317,Bullock Circuit Neighbourhood Park,Local Neighbourhood,Fair,Kambah,340.5,-35.383506,149.049642,2929,222656,16
+PLGR318,Karney Street Neighbourhood Park,Local Neighbourhood,Good,Kambah,342.2,-35.388201,149.055868,3630,233157,11
+PLGR319,Samuel Close Neighbourhood Park,Local Neighbourhood,Fair,Calwell,237.6,-35.437291,149.11267,4212,269173,11
+PLGR32,Angas Street Road Verge,Local Neighbourhood,Good,Ainslie,258.5,-35.263669,149.138296,66,34194,21
+PLGR320,Were Street Neighbourhood Park,Local Neighbourhood,Poor,Calwell,499.4,-35.437045,149.113994,3282,243029,15
+PLGR321,Casey Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Calwell,240.4,-35.441978,149.1159,2621,186448,26
+PLGR322,Beckett Street Neighbourhood Park,Local Neighbourhood,Poor,Calwell,388.6,-35.439945,149.097722,2813,195186,5
+PLGR323,Mountain Circuit Neighbourhood Park,Local Neighbourhood,Good,Calwell,248.4,-35.436412,149.10567,2695,176514,9
+PLGR325,Learmonth Drive Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,201.6,-35.392821,149.044329,754,72358,28
+PLGR326,Merriman Street Pedestrian Parkland,Local Neighbourhood,Good,Macarthur,141.0,-35.404619,149.129103,2165,201975,10
+PLGR327,Bayly Place Neighbourhood Park,Central Community,Good,Macarthur,780.0,-35.408215,149.128275,2879,245072,15
+PLGR328,Jeffries Street Neighbourhood Park,Central Community,Fair,Gowrie,620.4,-35.414056,149.110536,1649,139822,17
+PLGR329,Howell Place,Local Neighbourhood,Fair,Gowrie,322.9,-35.415183,149.107645,2951,212325,15
+PLGR332,Inwood Place Pedestrian Parkland,Local Neighbourhood,No Shade,Gowrie,72.5,-35.408275,149.108308,3119,228044,18
+PLGR333,Middleton Circuit Pedestrian Parkland,Local Neighbourhood,Poor,Gowrie,158.5,-35.407406,149.104453,2670,183132,13
+PLGR334,Wray Place Neighbourhood Park,Local Neighbourhood,Poor,Gowrie,214.7,-35.407208,149.111172,2635,172015,20
+PLGR335,Weathers Street Neighbourhood Park,Local Neighbourhood,Fair,Gowrie,156.6,-35.408793,149.114469,2045,208789,9
+PLGR336,Molvig Street Neighbourhood Park,Local Neighbourhood,Fair,Weston,301.9,-35.344224,149.066264,1949,166307,40
+PLGR337,Moonta Place Neighbourhood Park,Local Neighbourhood,Fair,Fisher,238.0,-35.357678,149.052357,3024,162901,6
+PLGR338,Araluen Street,Local Neighbourhood,Poor,Fisher,988.5,-35.360544,149.057471,2140,181888,18
+PLGR339,Dennis Street Neighbourhood Park,Local Neighbourhood,Fair,Garran,178.2,-35.346305,149.106285,2599,155473,39
+PLGR340,Henderson Street Neighbourhood Park,Local Neighbourhood,Fair,Garran,208.6,-35.340605,149.111566,1680,88630,53
+PLGR342,Bisdee Street Pedestrian Parkland,Local Neighbourhood,Poor,Hughes,333.7,-35.335432,149.090904,1802,102447,32
+PLGR343,Mcnicoll Street Neighbourhood Park,Local Neighbourhood,Fair,Hughes,120.3,-35.335762,149.096557,2266,124798,41
+PLGR344,Goble Street Pedestrian Parkland,Local Neighbourhood,Fair,Hughes,340.6,-35.331749,149.099504,1659,139770,12
+PLGR347,Rowntree Crescent Neighbourhood Park,Local Neighbourhood,Fair,Isaacs,158.4,-35.376913,149.116286,1297,118194,32
+PLGR348,Hagelthorn Street Neighbourhood Park,Local Neighbourhood,Fair,Farrer,152.9,-35.379472,149.111277,2722,162470,21
+PLGR349,Wagga Street Neighbourhood Park,Local Neighbourhood,Fair,Farrer,333.6,-35.381507,149.109407,2052,147865,28
+PLGR350,Moodie Street Neighbourhood Park,Local Neighbourhood,Fair,Farrer,144.1,-35.374562,149.09578,2318,149419,9
+PLGR351,Gatton Street Neighbourhood Park,Local Neighbourhood,No Shade,Farrer,142.2,-35.37411,149.102507,2180,147761,30
+PLGR352,Kallara Close Neighbourhood Park,Local Neighbourhood,,Duffy,227.4,-35.340467,149.037027,2595,166589,40
+PLGR353,Mirrool Street Neighbourhood Park,Local Neighbourhood,Fair,Duffy,222.1,-35.341349,149.029967,2638,164235,28
+PLGR354,Glenmaggie Street Pedestrian Parkland,Local Neighbourhood,Good,Duffy,605.0,-35.336549,149.033052,3336,209145,4
+PLGR355,Cargelligo Street Pedestrian Parkland,Local Neighbourhood,Fair,Duffy,273.8,-35.334321,149.030257,2209,113310,45
+PLGR356,Rocklands Street Neighbourhood Park,Local Neighbourhood,No Shade,Duffy,250.1,-35.331411,149.03786,1862,114080,36
+PLGR358,Pearson Street Neighbourhood Park,Local Neighbourhood,Good,Holder,234.9,-35.33683,149.048883,2681,186105,38
+PLGR359,Calder Crescent Neighbourhood Park,Local Neighbourhood,No Shade,Holder,249.3,-35.333881,149.046547,2994,182943,38
+PLGR360,De Graaff Street Neighbourhood Park,Local Neighbourhood,Fair,Holder,224.3,-35.334543,149.041476,2597,170239,33
+PLGR361,Ordell Street Pedestrian Parkland,Local Neighbourhood,Fair,Chapman,238.4,-35.352143,149.031043,3094,186866,24
+PLGR362,Perry Drive Neighbourhood Park,Local Neighbourhood,Fair,Chapman,238.4,-35.357526,149.036757,3077,181237,9
+PLGR363,Tauchert Street Neighbourhood Park,Central Community,Good,Chapman,496.7,-35.357454,149.045795,2015,134447,6
+PLGR364,Bertel Crescent Neighbourhood Park,Local Neighbourhood,Fair,Chapman,399.9,-35.360558,149.043727,2813,162686,15
+PLGR365,Macalister Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Curtin,85.8,-35.331599,149.08196,2258,149221,19
+PLGR366,Daglish Street Neighbourhood Park,Local Neighbourhood,Fair,Curtin,231.3,-35.332353,149.076682,1681,144859,21
+PLGR367,Philp Place Neighbourhood Park,Local Neighbourhood,Fair,Curtin,234.8,-35.326531,149.080241,1890,257019,23
+PLGR368,Carruthers Street Pedestrian Parkland,Local Neighbourhood,Fair,Curtin,289.8,-35.324274,149.083282,4036,211288,29
+PLGR369,Morgan Place Neighbourhood Park,Local Neighbourhood,Good,Curtin,359.7,-35.320827,149.084325,2115,130806,21
+PLGR370,Farnell Place Neighbourhood Park,Local Neighbourhood,Good,Curtin,302.7,-35.320695,149.074489,1512,101120,3
+PLGR371,Storey Street Pedestrian Parkland,Local Neighbourhood,Fair,Curtin,204.0,-35.321404,149.08032,2762,202670,13
+PLGR372,Chifley Place Neighbourhood Park,Central Community,Good,Chifley,684.3,-35.352547,149.076776,2212,175894,20
+PLGR373,Charteris Crescent Neighbourhood Park,Local Neighbourhood,Fair,Chifley,160.2,-35.353773,149.082159,3070,182670,11
+PLGR374,Risdon Place Pedestrian Parkland,Local Neighbourhood,Fair,Lyons,233.5,-35.344979,149.075091,3159,197014,13
+PLGR376,Devonport Street Neighbourhood Park,Local Neighbourhood,Good,Lyons,233.5,-35.336577,149.07408,1578,137077,36
+PLGR377,Pillar Place Pedestrian Parkland,Local Neighbourhood,Fair,Lyons,165.1,-35.346345,149.071523,1259,129488,14
+PLGR378,Tank Street Pedestrian Parkland,Local Neighbourhood,Fair,Phillip,200.7,-35.347561,149.093712,3946,200711,12
+PLGR379,Rowe Place Neighbourhood Park,Local Neighbourhood,Fair,Phillip,209.7,-35.351552,149.097719,5174,223057,10
+PLGR382,Barlee Place Neighbourhood Park,Local Neighbourhood,Fair,Stirling,301.3,-35.351818,149.052557,1773,174257,17
+PLGR383,Bunbury Street Neighbourhood Park,Central Community,Good,Stirling,516.0,-35.347327,149.052212,1681,137303,9
+PLGR385,Santalum Street Pedestrian Parkland,Local Neighbourhood,Poor,Rivett,221.8,-35.343296,149.045009,2149,123842,23
+PLGR386,Yate Gardens Neighbourhood Park,Local Neighbourhood,Fair,Rivett,388.2,-35.35173,149.038971,1294,84282,32
+PLGR387,Blancoa Place Pedestrian Parkland,Local Neighbourhood,No Shade,Rivett,353.6,-35.34922,149.035744,3431,246716,10
+PLGR389,Sollya Place Pedestrian Parkland,Local Neighbourhood,No Shade,Rivett,272.0,-35.349485,149.032701,2026,209604,23
+PLGR390,Malara Street Neighbourhood Park,Local Neighbourhood,Fair,Waramanga,305.8,-35.34992,149.061233,2620,173009,5
+PLGR392,Warrai Place Pedestrian Parkland,Local Neighbourhood,Good,Waramanga,228.7,-35.354512,149.064775,1472,126840,24
+PLGR394,Whitney Place,Local Neighbourhood,No Shade,Weston,251.1,-35.341195,149.053718,2281,217271,11
+PLGR395,Gruner Street Neighbourhood Park,Local Neighbourhood,Fair,Weston,297.4,-35.333797,149.056368,2078,148001,36
+PLGR396,Fry Place Neighbourhood Park,Local Neighbourhood,Fair,Weston,278.1,-35.338483,149.059108,2603,187425,27
+PLGR397,Parsons Street Pedestrian Parkland,Local Neighbourhood,No Shade,Torrens,122.8,-35.372959,149.08504,3987,219585,11
+PLGR398,Torrens Place Pedestrian Parkland,Central Community,Fair,Torrens,479.0,-35.373133,149.088052,3724,215332,14
+PLGR399,Horrocks Street Neighbourhood Park,Local Neighbourhood,Fair,Torrens,170.1,-35.368101,149.089588,2782,157848,27
+PLGR4,Agnew Street Neighbourhood Park,Local Neighbourhood,Good,Ainslie,257.1,-35.253358,149.15634,1462,99003,34
+PLGR400,Whitham Place Pedestrian Parkland,Local Neighbourhood,Fair,Pearce,124.0,-35.365847,149.080444,3270,193352,21
+PLGR401,Macfarland Crescent Neighbourhood Park,Local Neighbourhood,Fair,Pearce,102.0,-35.361803,149.078987,2715,143338,26
+PLGR402,Kemsley Place Neighbourhood Park,Local Neighbourhood,No Shade,Pearce,149.5,-35.362464,149.085064,2238,187685,13
+PLGR403,Cobbadah Street Pedestrian Parkland,Local Neighbourhood,Fair,O'malley,302.0,-35.361687,149.106117,191,46782,28
+PLGR404,Culgoa Circuit Neighbourhood Park,Central Community,Fair,O'malley,368.3,-35.355131,149.106405,1878,114070,64
+PLGR405,Wilkins Street Neighbourhood Park,Central Community,Poor,Mawson,428.7,-35.370298,149.098569,1688,173040,4
+PLGR406,Du Faur Place Pedestrian Parkland,Local Neighbourhood,Fair,Mawson,194.6,-35.358385,149.095681,2089,143033,33
+PLGR407,Laseron Place Neighbourhood Park,Local Neighbourhood,Fair,Mawson,167.0,-35.361074,149.095432,1203,71109,24
+PLGR408,Aurora Close Pedestrian Parkland,Local Neighbourhood,Fair,Mawson,71.9,-35.356546,149.094807,1572,103718,13
+PLGR409,Hamersley Place Neighbourhood Park,Local Neighbourhood,Fair,Fisher,153.4,-35.362214,149.051572,2249,171773,13
+PLGR410,Withers Place Pedestrian Parkland,Local Neighbourhood,Fair,Weston,432.5,-35.34253,149.06337,2885,187008,2
+PLGR411,Quinlivan Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Dunlop,268.6,-35.192854,149.022857,4286,245452,12
+PLGR412,Evelyn Owen Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Dunlop,257.0,-35.199439,149.019846,3298,191787,22
+PLGR413,Pockett Avenue Neighbourhood Park,Local Neighbourhood,Fair,Banks,560.3,-35.470603,149.096596,3006,213026,1
+PLGR415,Shoobridge Circuit Neighbourhood Park,Local Neighbourhood,No Shade,Dunlop,360.8,-35.19425,149.019891,4788,238726,12
+PLGR416,Chauvel Circle Neighbourhood Park,Local Neighbourhood,Poor,Chapman,288.5,-35.350472,149.028223,1011,102794,33
+PLGR417,Tuggeranong Town Centre Neighbourhood Park,Local Neighbourhood,Poor,Greenway,240.6,-35.413211,149.062892,3494,187319,26
+PLGR418,Dean Place Neighbourhood Park,Local Neighbourhood,Fair,Charnwood,249.0,-35.196125,149.038629,2179,219666,6
+PLGR419,Mataranka Street Neighbourhood Park,Local Neighbourhood,Fair,Hawker,263.2,-35.246828,149.03032,2139,180889,9
+PLGR42,Allman Circuit Neighbourhood Park,Local Neighbourhood,Fair,Macquarie,239.9,-35.253782,149.068218,3918,226383,11
+PLGR43,Jamison Centre,Central Community,Fair,Macquarie,404.9,-35.253349,149.071546,4169,227697,17
+PLGR44,Badgery Street Neighbourhood Park,Local Neighbourhood,Fair,Macquarie,171.6,-35.252779,149.064318,2847,186637,38
+PLGR440,Blackman Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Macquarie,91.3,-35.252432,149.065976,3162,220860,25
+PLGR443,Levine Street Neighbourhood Park,Central Community,Fair,Evatt,588.0,-35.211355,149.064752,1072,176180,33
+PLGR445,Hall Park Pedestrian Parkland,Central Community,Fair,Hall,433.2,-35.171622,149.070267,3082,161050,48
+PLGR448,Violets Park Neighbourhood Park,Local Neighbourhood,Good,Ngunnawal,184.8,-35.176127,149.109932,3696,211684,7
+PLGR449,Bimberi Crescent Neighbourhood Park,Local Neighbourhood,Fair,Palmerston,249.9,-35.194264,149.112787,2972,195845,10
+PLGR45,Wylde Place Pedestrian Parkland,Local Neighbourhood,Fair,Macquarie,106.1,-35.247059,149.061316,1543,115680,19
+PLGR451,Kosciuszko Avenue Neighbourhood Park,Central Community,Fair,Palmerston,525.9,-35.197289,149.119084,3594,238711,11
+PLGR452,Weddin Circuit Neighbourhood Park,Local Neighbourhood,Fair,Palmerston,182.7,-35.196117,149.126111,2068,153294,32
+PLGR453,Lofty Close Neighbourhood Park,Local Neighbourhood,Good,Palmerston,231.0,-35.192244,149.125625,2560,146479,9
+PLGR454,Wellington Street Neighbourhood Park,Local Neighbourhood,Good,Ngunnawal,140.0,-35.172775,149.111135,3445,196141,10
+PLGR455,Homestead Park Neighbourhood Park,Local Neighbourhood,Good,Ngunnawal,389.7,-35.173176,149.10695,4559,267186,8
+PLGR457,Noble Close Neighbourhood Park,Local Neighbourhood,Fair,Ngunnawal,299.9,-35.181302,149.111169,1974,96383,17
+PLGR458,Blacklock Close Neighbourhood Park,Local Neighbourhood,Fair,Nicholls,273.7,-35.185751,149.106014,1280,66257,34
+PLGR459,Sonder Close Neighbourhood Park,Local Neighbourhood,Fair,Palmerston,217.1,-35.189948,149.117233,3307,210941,7
+PLGR46,Macquarie Place Neighbourhood Park,Local Neighbourhood,Fair,Macquarie,144.4,-35.247888,149.059509,3490,223178,10
+PLGR460,Corringle Close Neighbourhood Park,Local Neighbourhood,Fair,Amaroo,253.4,-35.172262,149.12773,4666,254754,17
+PLGR461,Mirrabei Drive Neighbourhood Park,Local Neighbourhood,No Shade,Amaroo,148.8,-35.176744,149.12444,1626,161435,7
+PLGR462,Metcalfe Street Neighbourhood Park,Local Neighbourhood,Fair,Nicholls,271.8,-35.181468,149.088522,2999,174455,7
+PLGR464,Burrumarra Avenue Neighbourhood Park,Local Neighbourhood,Fair,Ngunnawal,502.4,-35.162263,149.108622,3713,214711,11
+PLGR465,Bywaters Street Neighbourhood Park,Local Neighbourhood,Fair,Amaroo,244.6,-35.169131,149.124261,4426,236458,9
+PLGR466,Candlebark Close Neighbourhood Park,Local Neighbourhood,Good,Nicholls,388.5,-35.19225,149.110118,1801,146792,12
+PLGR468,Pandanus Street Neighbourhood Park,Local Neighbourhood,Fair,Fisher,372.3,-35.363064,149.061555,2516,174613,24
+PLGR47,Erskine Street Neighbourhood Park,Local Neighbourhood,No Shade,Macquarie,105.5,-35.251745,149.057246,2977,206903,12
+PLGR470,Deumonga Court Pedestrian Parkland,Local Neighbourhood,Fair,Ngunnawal,151.1,-35.173254,149.114184,2317,124568,7
+PLGR471,Gadali Crescent Pedestrian Parkland,Local Neighbourhood,No Shade,Ngunnawal,172.8,-35.180184,149.119612,3055,140377,18
+PLGR472,Bargang Crescent Neighbourhood Park,Local Neighbourhood,Fair,Ngunnawal,244.9,-35.171868,149.102193,4441,261288,11
+PLGR474,Proserpine Circuit Neighbourhood Park,Local Neighbourhood,Fair,Amaroo,330.1,-35.167868,149.131912,4601,212918,9
+PLGR475,Bizant Street Neighbourhood Park,Central Community,Good,Amaroo,392.6,-35.173712,149.135232,1842,158975,8
+PLGR476,Sue Geh Circuit Neighbourhood Park,Local Neighbourhood,Fair,Nicholls,262.7,-35.188805,149.09333,3488,189433,6
+PLGR477,Anne Clark Avenue Pedestrian Parkland,Local Neighbourhood,Fair,Nicholls,293.0,-35.181383,149.104465,3871,233386,15
+PLGR478,Wanderer Court Neighbourhood Park,Local Neighbourhood,Fair,Amaroo,341.7,-35.170403,149.119618,3101,193920,9
+PLGR48,Sculptor Street Pedestrian Parkland,Local Neighbourhood,Good,Giralang,171.7,-35.217085,149.100718,1827,163922,9
+PLGR480,Paul Coe Crescent Road Median,Central Community,Fair,Ngunnawal,421.7,-35.17466,149.119806,3082,170705,15
+PLGR481,Gouldsmith Street Pedestrian Parkland,Local Neighbourhood,Fair,Dunlop,351.3,-35.195927,149.02692,4457,266952,11
+PLGR482,Tea Gardens Neighbourhood Park,Local Neighbourhood,Fair,Gungahlin,133.7,-35.179334,149.14047,2802,145205,19
+PLGR483,Stedman Place Neighbourhood Park,Local Neighbourhood,Fair,Nicholls,418.2,-35.186627,149.094071,2034,143751,9
+PLGR49,Warring Place Neighbourhood Park,Local Neighbourhood,Fair,Giralang,283.4,-35.213791,149.097887,3337,241357,14
+PLGR5,Tardent Street Neighbourhood Park,Local Neighbourhood,Fair,Downer,355.6,-35.240948,149.144566,2231,123535,35
+PLGR50,Acherner Close Neighbourhood Park,Local Neighbourhood,Fair,Giralang,314.3,-35.211166,149.092053,3118,220840,10
+PLGR51,Baracchi Crescent Neighbourhood Park,Local Neighbourhood,Good,Giralang,302.4,-35.205868,149.092797,1701,178860,10
+PLGR52,Malindi Place Neighbourhood Park,Local Neighbourhood,Good,Giralang,284.7,-35.209503,149.10007,2418,192957,12
+PLGR53,Rigel Place Pedestrian Parkland,Local Neighbourhood,Good,Giralang,182.6,-35.214633,149.091423,1699,174888,6
+PLGR54,Jeffery Place Neighbourhood Park,Local Neighbourhood,Fair,Mckellar,281.3,-35.215361,149.075975,3164,192016,8
+PLGR55,Vagabond Crescent Neighbourhood Park,Local Neighbourhood,Fair,Mckellar,269.9,-35.217813,149.071976,3334,226930,9
+PLGR56,Tipping Place Pedestrian Parkland,Local Neighbourhood,Fair,Mckellar,147.8,-35.221327,149.0736,2956,190514,4
+PLGR57,Baird Place Pedestrian Parkland,Local Neighbourhood,Fair,Scullin,224.5,-35.236707,149.038829,2100,148676,17
+PLGR58,Duigan Street Neighbourhood Park,Local Neighbourhood,Fair,Scullin,349.9,-35.238321,149.035431,3088,158936,7
+PLGR59,Gatty Place Neighbourhood Park,Local Neighbourhood,Fair,Scullin,298.8,-35.231474,149.041937,2282,121717,29
+PLGR6,Fenton Street Neighbourhood Park,Local Neighbourhood,Fair,Downer,174.5,-35.242701,149.140868,2369,130821,25
+PLGR60,Hargrave Street Pedestrian Parkland,Local Neighbourhood,Fair,Scullin,270.6,-35.229575,149.040297,2597,204240,9
+PLGR61,Broadsmith Street Pedestrian Parkland,Local Neighbourhood,Fair,Scullin,131.8,-35.230164,149.04198,2094,145409,8
+PLGR62,Levien Street Neighbourhood Park,Local Neighbourhood,Fair,Scullin,180.2,-35.229329,149.036866,2640,144145,4
+PLGR63,Woolner Circuit Neighbourhood Park,Local Neighbourhood,Fair,Hawker,127.4,-35.251394,149.039539,2066,144159,8
+PLGR64,Anningie Place Pedestrian Parkland,Local Neighbourhood,Fair,Hawker,267.1,-35.249229,149.034214,2168,203027,13
+PLGR66,Mowle Place Neighbourhood Park,Local Neighbourhood,Fair,Weetangera,239.4,-35.254558,149.050159,2970,219935,27
+PLGR68,Smith Street Neighbourhood Park,Local Neighbourhood,Fair,Weetangera,268.1,-35.243903,149.047889,3304,216723,7
+PLGR69,Mathieson Street Neighbourhood Park,Local Neighbourhood,Good,Weetangera,233.8,-35.24905,149.053907,2470,198076,28
+PLGR7,Berry Street Neighbourhood Park,Local Neighbourhood,Poor,Downer,353.7,-35.246487,149.138534,2820,165921,21
+PLGR71,Earlie Place,Local Neighbourhood,Fair,Page,259.1,-35.238092,149.050189,2454,170585,27
+PLGR72,Thozet Place Neighbourhood Park,Local Neighbourhood,Fair,Page,253.5,-35.241846,149.052062,3943,200167,21
+PLGR1,Paterson Street Neighbourhood Park,Central Community,Fair,Ainslie,350.6,-35.268798,149.141559,4066,226612,40
+PLGR10,Hawdon Street Neighbourhood Park,Central Community,Fair,Dickson,329.0,-35.252665,149.149219,2331,176610,35
+PLGR100,Solomon Crescent Neighbourhood Park,Local Neighbourhood,Fair,Latham,218.6,-35.217118,149.026429,1882,150223,31
+PLGR102,Hensman Street Neighbourhood Park,Local Neighbourhood,Fair,Latham,237.0,-35.221919,149.030842,2743,205517,44
+PLGR103,Chubb Street Neighbourhood Park,Local Neighbourhood,Fair,Latham,272.8,-35.221985,149.035811,3165,192935,7
+PLGR104,Georgina Crescent Pedestrian Parkland,Local Neighbourhood,Good,Kaleen,232.9,-35.22133,149.104411,2841,208011,10
+PLGR105,Darby Street Pedestrian Parkland,Local Neighbourhood,No Shade,Kaleen,241.8,-35.21543,149.107866,2910,187503,7
+PLGR106,Glenelg Street Neighbourhood Park,Local Neighbourhood,Fair,Kaleen,200.3,-35.215988,149.11239,2615,150974,48
+PLGR107,Ashburton Circuit Kaleen Shopping Centre,Local Neighbourhood,Fair,Kaleen,215.3,-35.224082,149.11182,2467,220453,10
+PLGR108,Bellinger Court Neighbourhood Park,Local Neighbourhood,No Shade,Kaleen,122.8,-35.22247,149.115012,1462,116104,25
+PLGR73,Burkitt Street Pedestrian Parkland,Local Neighbourhood,Fair,Page,359.7,-35.234962,149.04832,1668,123463,34
+PLGR74,Petterd Street Pedestrian Parkland,Local Neighbourhood,Fair,Page,239.5,-35.239788,149.044983,3402,227823,11
+PLGR76,Barrett Street Pedestrian Parkland,Local Neighbourhood,Fair,Macgregor,156.7,-35.205566,149.01809,2668,187779,17
+PLGR77,Pulleine Crescent Neighbourhood Park,Local Neighbourhood,Fair,Macgregor,123.9,-35.216621,149.009046,2490,170449,6
+PLGR78,Chalmers Place Laneway,Local Neighbourhood,Good,Macgregor,97.6,-35.211025,149.012692,1688,107267,16
+PLGR79,Berne Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Macgregor,253.7,-35.20817,149.014418,1565,157685,7
+PLGR80,Beaney Street Pedestrian Parkland,Local Neighbourhood,Fair,Macgregor,235.2,-35.210002,149.022147,1476,140632,26
+PLGR81,Shakespheare Crescent Neighbourhood Park,Central Community,Good,Fraser,329.5,-35.192008,149.040602,3146,213576,8
+PLGR82,Bingley Crescent Neighbourhood Park,Local Neighbourhood,Good,Fraser,282.0,-35.190894,149.050255,2860,184665,9
+PLGR83,Mildenhall Place Semi Natural Open Space,Local Neighbourhood,Fair,Fraser,228.7,-35.194599,149.057262,1542,199134,15
+PLGR84,Gundara Street Neighbourhood Park,Local Neighbourhood,Fair,Aranda,188.1,-35.259767,149.077292,3327,203201,11
+PLGR85,Jagara Street Neighbourhood Park,Local Neighbourhood,Fair,Aranda,308.9,-35.260584,149.083626,2580,152476,31
+PLGR86,Bandjalong Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Aranda,215.2,-35.25761,149.081676,2137,143140,17
+PLGR87,Banambila Street Pedestrian Parkland,Local Neighbourhood,Fair,Aranda,604.2,-35.254439,149.080772,2480,171909,26
+PLGR89,Kesteven Street Florey Shopping Centre,Central Community,Fair,Florey,234.2,-35.226578,149.054619,3742,277721,10
+PLGR90,Tattersall Crescent Neighbourhood Park,Local Neighbourhood,Fair,Florey,220.0,-35.223644,149.057107,3465,238259,7
+PLGR91,Hewlett Circuit Neighbourhood Park,Local Neighbourhood,Fair,Florey,244.5,-35.223706,149.047615,0,2362,6
+PLGR92,Boswell Crescent Neighbourhood Park,Local Neighbourhood,Fair,Florey,313.8,-35.227433,149.048254,3720,218072,10
+PLGR93,Meyrick Place Neighbourhood Park,Local Neighbourhood,Fair,Florey,260.3,-35.231667,149.052161,2319,180962,10
+PLGR96,Hudson Street Neighbourhood Park,Local Neighbourhood,Good,Higgins,194.8,-35.228043,149.030092,3138,179274,26
+PLGR97,Rich Street Neighbourhood Park,Local Neighbourhood,Fair,Higgins,267.8,-35.230244,149.021507,2344,139330,1
+PLGR109,Ellenborough Street Pedestrian Parkland,Local Neighbourhood,Good,Kaleen,259.7,-35.230967,149.112726,4177,243864,14
+PLGR110,Warrego Circuit Neighbourhood Park,Local Neighbourhood,Good,Kaleen,398.9,-35.228783,149.115993,1723,187191,14
+PLGR111,Alberga Street Pedestrian Park,Local Neighbourhood,Fair,Kaleen,310.7,-35.235151,149.096606,920,90390,20
+PLGR113,Liffey Circuit Neighbourhood Park,Local Neighbourhood,Good,Kaleen,286.8,-35.231839,149.10219,2888,200800,31
+PLGR116,Hancock Street Pedestrian Parkland,Central Community,Good,Spence,318.9,-35.201655,149.064288,3065,220035,27
+PLGR119,Crofts Crescent Pedestrian Parkland,Local Neighbourhood,Good,Spence,186.8,-35.196686,149.062365,3207,200837,5
+PLGR120,Glassey Place Spence Shopping Centre,Local Neighbourhood,No Shade,Spence,203.0,-35.194466,149.061704,3584,217649,13
+PLGR121,Britten Jones Drive Neighbourhood Park,Local Neighbourhood,Fair,Holt,241.4,-35.223342,149.002713,1760,122717,6
+PLGR122,Cazaly Close Neighbourhood Park,Local Neighbourhood,Fair,Holt,233.9,-35.228953,149.013213,2786,195277,48
+PLGR123,Boyle Place,Local Neighbourhood,Fair,Holt,312.8,-35.225583,149.009541,3218,188406,33
+PLGR126,Hardwick Crescent Shopping Centre,Local Neighbourhood,Fair,Holt,508.9,-35.222278,149.019306,2488,218262,22
+PLGR13,Hope Street Neighbourhood Park,Local Neighbourhood,Fair,Dickson,229.0,-35.255402,149.136923,2920,193115,17
+PLGR132,Totterdell Street South Neighbourhood Park,Local Neighbourhood,Good,Belconnen,261.6,-35.234493,149.059974,4159,231156,9
+PLGR133,Totterdell Street North Pedestrian Parkland,Local Neighbourhood,Fair,Belconnen,305.1,-35.231649,149.059695,2023,133350,7
+PLGR136,Pigdon Place Neighbourhood Park,Local Neighbourhood,Fair,Belconnen,248.6,-35.24598,149.072567,3175,220215,12
+PLGR137,Renny Place Pedestrian Parkland,Local Neighbourhood,Fair,Belconnen,242.6,-35.248142,149.074831,4333,210955,13
+PLGR139,Cobbett Place Neighbourhood Park,Local Neighbourhood,Fair,Bruce,253.9,-35.244455,149.077636,2160,187078,13
+PLGR14,Tryon Street Neighbourhood Park,Central Community,Fair,Hackett,312.2,-35.249447,149.165271,2650,179662,24
+PLGR140,Mugglestone Place Pedestrian Parkland,Local Neighbourhood,No Shade,Bruce,124.7,-35.248676,149.077376,1816,119024,7
+PLGR141,Jaegar Circuit Neighbourhood Park,Local Neighbourhood,Fair,Bruce,120.6,-35.249717,149.082309,1518,117233,23
+PLGR142,Scarlett Street Neighbourhood Park,Central Community,Fair,Melba,252.9,-35.211496,149.053442,2588,171603,11
+PLGR143,Delany Court Pedestrian Parkland,Local Neighbourhood,No Shade,Melba,392.3,-35.217604,149.047724,1199,74211,29
+PLGR144,Henslowe Place Neighbourhood Park,Local Neighbourhood,Fair,Melba,240.4,-35.208139,149.051475,3191,222976,4
+PLGR145,Bishop Place Neighbourhood Park,Local Neighbourhood,Fair,Melba,276.7,-35.205562,149.053385,2699,196248,18
+PLGR146,Flower Place Neighbourhood Park,Local Neighbourhood,Fair,Melba,321.3,-35.204674,149.057941,3796,222921,23
+PLGR147,Blackwell Circuit Neighbourhood Park,Local Neighbourhood,Good,Flynn,223.9,-35.206571,149.039307,2963,193956,14
+PLGR148,Herschell Circuit Neighbourhood Park,Local Neighbourhood,Good,Flynn,159.2,-35.203187,149.045919,2513,174468,27
+PLGR149,Rechner Place Neighbourhood Park,Local Neighbourhood,Fair,Flynn,272.4,-35.199249,149.050921,295,132842,48
+PLGR15,Bragg Street Neighbourhood Park,Local Neighbourhood,Fair,Hackett,250.7,-35.253496,149.165889,1992,125776,58
+PLGR150,Plowman Place Neighbourhood Park,Local Neighbourhood,Fair,Flynn,332.6,-35.210218,149.045198,1825,161267,49
+PLGR152,Donnison Place Neighbourhood Park,Local Neighbourhood,Fair,Charnwood,300.9,-35.201188,149.032092,3132,260182,25
+PLGR154,Bettington Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Charnwood,155.6,-35.19835,149.034278,3734,256863,10
+PLGR156,Sadlier Place Neighbourhood Park,Local Neighbourhood,Fair,Charnwood,280.5,-35.199878,149.041756,3535,238599,16
+PLGR157,Covington Crescent Neighbourhood Park,Local Neighbourhood,Good,Charnwood,471.6,-35.201928,149.038804,2645,243286,33
+PLGR158,Gollan Street Neighbourhood Park,Local Neighbourhood,Fair,Evatt,250.2,-35.203954,149.071745,2202,156798,7
+PLGR159,Jacobs Street Pedestrian Aprkland,Local Neighbourhood,Fair,Evatt,281.6,-35.206073,149.074515,1365,126240,28
+PLGR16,Caldwell Street Neighbourhood Park,Local Neighbourhood,Fair,Hackett,262.7,-35.248671,149.159621,2574,145616,33
+PLGR160,Kinkead Street Neighbourhood Park,Local Neighbourhood,Fair,Evatt,277.9,-35.209588,149.077178,1706,133216,30
+PLGR161,Pitcairn Street Neighbourhood Park,Local Neighbourhood,Fair,Evatt,580.5,-35.209054,149.068714,2636,180387,2
+PLGR162,Read Place Pedestrian Parkland,Central Community,Good,Evatt,239.6,-35.217969,149.067016,777,183978,26
+PLGR163,Copland Drive Pedestrian Parkland,Local Neighbourhood,Fair,Evatt,250.4,-35.215826,149.05751,350,94374,12
+PLGR165,Teague Place Pedestrian Parkland,Local Neighbourhood,Fair,Cook,131.9,-35.255863,149.072003,3481,189443,9
+PLGR166,Dexter And Bourne Sts Neighbourhood Park,Local Neighbourhood,Fair,Cook,326.6,-35.258108,149.071251,2798,203833,1
+PLGR167,Mackellar Crescent Neighbourhood Park,Local Neighbourhood,Good,Cook,213.3,-35.264996,149.069168,1544,165448,47
+PLGR168,Lyttleton Crescent Pedestrian Parkland,Local Neighbourhood,Fair,Cook,215.3,-35.260929,149.06433,2569,131593,32
+PLGR169,Clisby Close Neighbouhood Park,Local Neighbourhood,Fair,Cook,183.9,-35.257554,149.056099,2384,148560,29
+PLGR17,Gilruth Street Neighbourhood Park,Local Neighbourhood,Poor,Hackett,306.4,-35.24681,149.158599,2935,155615,22
+PLGR170,Lampard Circuit Pedestrian Parkland,Local Neighbourhood,Poor,Bruce,173.9,-35.237435,149.094714,1414,85157,20
+PLGR171,Archdall Street Neighbourhood Park,Local Neighbourhood,Fair,Dunlop,300.3,-35.199922,149.015199,4041,235577,10
+PLGR172,Condamine Street Neighbourhood Park,Central Community,Good,Turner,415.7,-35.267348,149.123262,2593,209887,35
+PLGR174,Correa Street Neighbourhood Park,Local Neighbourhood,Fair,O'connor,301.1,-35.252435,149.121432,3587,222631,19
+PLGR175,Boronia Drive Pedestrian Parkland,Local Neighbourhood,Fair,O'connor,226.6,-35.257189,149.120593,2495,177982,17
+PLGR176,Wongoola Street Neighbourhood Park,Local Neighbourhood,Fair,O'connor,473.0,-35.256944,149.111612,1499,106387,29
+PLGR177,Cockle Street Pedestrian Parkland,Local Neighbourhood,Fair,O'connor,366.8,-35.264804,149.113234,1197,89035,18
+PLGR178,Finn Street Neighbouhood Park,Central Community,Fair,O'connor,1516.2,-35.260878,149.118946,3514,255846,7
+PLGR179,David Street Neighbourhhood Park,Local Neighbourhood,Good,O'connor,365.7,-35.263659,149.124388,2189,189305,12
+PLGR18,Harris Street,Local Neighbourhood,Good,Hackett,254.1,-35.244848,149.16389,3017,180962,18
+PLGR181,Dowling Street Neighbourhood Park,Local Neighbourhood,No Shade,Watson,213.3,-35.241927,149.155551,3790,227019,25
+PLGR182,Simpson Street Neighbourhood Park,Local Neighbourhood,Fair,Watson,364.6,-35.235724,149.155272,3299,222781,13
+PLGR183,Harding Street Neighbourhood Park,Local Neighbourhood,Fair,Watson,221.1,-35.238471,149.159164,3430,201573,21
+PLGR184,Wade Street Neighbourhood Park,Local Neighbourhood,Fair,Watson,374.0,-35.237306,149.149559,4007,218975,17
+PLGR185,Geerilong Gardens Neighbourhood Park,Central Community,Fair,Reid,180.1,-35.283062,149.143679,1880,116858,32
+PLGR187,Railway Street Pedestrian Parkland,Central Community,Good,Oaks Estate,362.4,-35.34194,149.227499,2250,128299,7
+PLGR188,William Street Neighbourhood Park,Local Neighbourhood,Good,Oaks Estate,168.9,-35.340973,149.230795,272,54193,59
+PLGR189,Carnegie Crescent Pedestrian Parkland,Central Community,No Shade,Narrabundah,255.3,-35.337679,149.137742,1700,96190,49
+PLGR19,Von Guerard Crescent Neighbourhood Park,Local Neighbourhood,No Shade,Lyneham,207.0,-35.237097,149.122818,3517,189672,9
+PLGR191,Anembo Street Pedestrian Parkland (west),Local Neighbourhood,Fair,Narrabundah,576.8,-35.329241,149.153247,2890,220105,17
+PLGR192,Anembo Street Pedestrian Parkland (east),Local Neighbourhood,Fair,Narrabundah,349.1,-35.331876,149.157864,2987,199189,15
+PLGR195,Telopea Park,District,Good,Barton,1277.1,-35.315209,149.137326,2112,167764,27
+PLGR196,Brockman Street Pedestrian Parkland,Local Neighbourhood,Fair,Narrabundah,214.9,-35.335402,149.139979,631,54109,22
+PLGR197,Wells Gardens Neighbourhood Park,Local Neighbourhood,No Shade,Griffith,225.5,-35.327764,149.133816,2964,201973,19
+PLGR198,Flinders Way Neighbourhood Park,Local Neighbourhood,Good,Griffith,632.9,-35.323409,149.134199,4890,257542,16
+PLGR199,Stokes Street Neighbourhood Park,Local Neighbourhood,Fair,Griffith,210.6,-35.322842,149.12713,3044,186276,30
+PLGR20,Cossington Smith Crescent Pedestrian Parkland,Central Community,Fair,Lyneham,489.4,-35.240833,149.123991,2963,165511,10
+PLGR200,Light Street Neighbourhood Park,Local Neighbourhood,Fair,Griffith,347.1,-35.321916,149.136799,3833,235673,10
+PLGR201,Throsby Lane Pedestrian Parkland,Local Neighbourhood,No Shade,Griffith,368.3,-35.327674,149.143864,1929,148516,9
+PLGR202,Mueller Street Neighbourhood Park,Central Community,Good,Yarralumla,995.1,-35.307068,149.10083,2815,204336,12
+PLGR205,Bedford Street Neighbourhood Park,Local Neighbourhood,No Shade,Deakin,299.1,-35.317986,149.112172,2019,105369,38
+PLGR206,Lawley Street Neighbourhood Park,Local Neighbourhood,Fair,Deakin,302.7,-35.319054,149.100445,3524,207492,36
+PLGR207,Golden Grove Neighbourhood Park,Central Community,Fair,Red Hill,313.2,-35.335917,149.126165,2599,143944,37
+PLGR209,Astrolabe Street Neighbourhood Park,Local Neighbourhood,Fair,Red Hill,251.0,-35.3398,149.131932,3641,199669,9
+PLGR21,Goodchild Street Neighbourhood Park,Local Neighbourhood,Fair,Lyneham,182.0,-35.24077,149.119124,3266,193580,11
+PLGR212,Wilson Crescent Neighbourhood Park,Local Neighbourhood,Fair,Banks,289.4,-35.471687,149.100282,3571,215587,6
+PLGR213,Menzies Court Neighbouhood Park,Local Neighbourhood,Fair,Banks,200.7,-35.475968,149.095253,1618,113924,4
+PLGR214,Noel Ryan Gardens Neighbourhood Park,Local Neighbourhood,Good,Gordon,304.4,-35.446141,149.083809,1227,107959,9
+PLGR215,Iredale Place Pedestrian Parkland,Local Neighbourhood,No Shade,Gordon,210.0,-35.45118,149.086481,3202,226711,7
+PLGR216,Kirkwood Crescentneighbourhood Park,Local Neighbourhood,Good,Gordon,591.4,-35.461244,149.081038,2706,157865,20
+PLGR217,Popplewell Place Neighbourhood Park,Local Neighbourhood,Poor,Gordon,167.0,-35.46541,149.088842,2059,153613,5
+PLGR218,Knoke Avenue Neighbourhood Park,Local Neighbourhood,Fair,Gordon,216.5,-35.470903,149.088514,3614,212119,10
+PLGR219,Cremone Place Neighbourhood Park,Central Community,Poor,Conder,851.6,-35.464391,149.102981,3543,224186,1
+PLGR22,Lambert Place Neighbourhood Park,Local Neighbourhood,Fair,Lyneham,288.1,-35.247759,149.121055,1835,106337,83
+PLGR220,Montifiore Crescent Neighbourhood Park,Local Neighbourhood,No Shade,Conder,277.0,-35.463801,149.108287,2205,162488,8
+PLGR222,Dixson Crescent Pedestrian Parkland,Local Neighbourhood,Good,Conder,352.2,-35.46119,149.092885,1739,132461,13
+PLGR224,Mcphail Place Pedestrian Parkland,Local Neighbourhood,Good,Fadden,245.9,-35.399318,149.117955,2765,201921,13
+PLGR225,Bertram Street Native Grassland,Local Neighbourhood,Good,Fadden,215.2,-35.404471,149.111455,2577,234755,6
+PLGR229,Parnell Place Neighbourhood Park,Local Neighbourhood,Good,Fadden,164.1,-35.400444,149.12129,2803,208583,9
+PLGR23,De Burgh Street Pedestrian Parkland,Local Neighbourhood,Fair,Lyneham,277.8,-35.254045,149.131406,1944,228557,14
+PLGR230,Meeson Street Neighbourhood Park,Local Neighbourhood,Good,Chisholm,210.4,-35.426708,149.120645,3170,192805,8
+PLGR641,Lanaba Street Neighbouhood Park,Local Neighbourhood,,Crace,239.7,-35.206074,149.10716,4021,243469,9
+PLGR639,Max Jacobs Avenue Neighbourhood Park,Local Neighbourhood,,Wright,440.1,-35.324749,149.041977,4748,223681,18
+PLGR640,Appleford Avenue Neighbourhood Park,Local Neighbourhood,No Shade,Jacka,181.5,-35.159879,149.128761,2288,172630,9
+PLGR646,Bilin Bilin Street Neighbourhood Park,Local Neighbourhood,,Bonner,599.2,-35.152376,149.147086,3025,224787,9
+PLGR647,Iterra Grove Neighbourhood Park,Local Neighbourhood,Fair,Ngunnawal,241.5,-35.164998,149.102251,3237,195817,11
+PLGR521,James Harrison Street Neighbourhood Park,Central Community,Fair,Dunlop,254.3,-35.191282,149.017069,0,3417,8
+PLGR522,Dalman Crescent Neighbourhood Park,Local Neighbourhood,No Shade,O'malley,285.2,-35.348797,149.113577,2051,126986,8
+PLGR659,Greg Irwin Circuit Neighbourhood Park,Local Neighbourhood,,Casey,347.6,-35.156534,149.099508,5522,260961,3
+PLGR656,Peter Cullen Way Neighbourhood Park,Local Neighbourhood,Good,Wright,420.0,-35.323846,149.032142,3962,248224,14
+PLGR663,Kavangal Circuitneighbourhood Park,Local Neighbourhood,Shade Structure Adjacent,Ngunnawal,184.8,-35.158368,149.105549,2312,142185,25
+PLGR611,Stowport Avenue Neighbourhood Park,Local Neighbourhood,Poor,Crace,85.8,-35.202363,149.104761,5923,308787,9
+PLGR610,Aida Ball Circuit Neighborhood Park,Local Neighbourhood,Fair,Forde,90.7,-35.173559,149.150447,2082,134082,3
+PLGR613,Burnum Burnum Close Community Recreation Irrigated Park,Local Neighbourhood,Poor,Bonner,333.4,-35.15931,149.142798,3782,203113,6
+PLGR612,Bruce Dittmar Central Community Park,Central Community,Good,Forde,367.8,-35.176034,149.145154,4858,224707,5
+PLGR615,Paisley Street Neighbourhood Park,Local Neighbourhood,,Nicholls,440.7,-35.18213,149.098186,2396,178695,11
+PLGR614,Abbie Street Neighbourhood Park,Local Neighbourhood,Fair,Macgregor,182.5,-35.213079,149.002448,4236,201142,4
+PLGR616,Yeend Avenue Neighbourhood Park,Local Neighbourhood,,Casey,438.6,-35.166611,149.097403,4609,260874,9
+PLGR597,Gladys Lister Street Neighbourhood Park,Local Neighbourhood,Good,Franklin,370.8,-35.19221,149.14946,4894,241257,10
+PLGR600,Phylis Street Neighbourhood Park,Local Neighbourhood,,Forde,391.5,-35.168907,149.151372,2960,210740,10
+PLGR599,John Crawford Avenue Neighbourhood Park,Local Neighbourhood,,Casey,805.9,-35.172373,149.094005,4649,257264,5
+PLGR525,Gungahlin Central Linear Park,Central Community,Good,Gungahlin,520.8,-35.186445,149.134775,5377,252356,21
+PLGR526,Tanami Street (nw) Neighbourhood Park,Central Community,Fair,Harrison,781.9,-35.198139,149.157329,4018,225900,2
+PLGR528,Gwen Meredith Loop Pedestrian Parkland,Local Neighbourhood,Poor,Franklin,295.0,-35.200397,149.139065,4470,259111,9
+PLGR674,Bettong Avenue Neighbourhood Park,Central Community,Poor,Throsby,1028.3,-35.187897,149.161969,3540,248958,3
+PLGR684,Porter Street Neighbourhood Park,Local Neighbourhood,Good,Wright,441.2,-35.311277,149.028366,3944,230216,11
+PLGR683,Devenish Street Neighbourhood Park,Local Neighbourhood,Fair,Taylor,728.5,-35.146775,149.105456,4841,283825,11
+PLGR688,Boolimba Crescent,Local Neighbourhood,,Narrabundah,669.2,-35.333106,149.154102,3833,221488,2
+PLGR691,Waramanga Place Pedestrian Parkland,Local Neighbourhood,Good,Waramanga,426.2,-35.35308,149.058456,1813,192655,1
+PLGR690,Maymuru Way Neighbourhood Park,Local Neighbourhood,No Shade,Whitlam,428.6,-35.271845,149.042982,3813,224211,14
+PLGR692,Lady Nelson Park,Local Neighbourhood,Good,Red Hill,385.2,-35.342269,149.130416,4879,230987,10
+PLGR509,Nicklin Crescent Neighbourhood Park,Local Neighbourhood,Poor,Fadden,270.9,-35.397861,149.116714,3090,210563,10
+PLGR357,Stapylton Street Neighbourhhod Park,Central Community,Good,Holder,545.7,-35.33713,149.044711,3385,253198,2
+PLGR380,Mansfield Place Pedestrian Parkland,Local Neighbourhood,No Shade,Phillip,168.2,-35.352348,149.092957,1691,130315,6
+PLGR388,Epacris Place Pedestrian Parkland,Local Neighbourhood,Fair,Rivett,233.7,-35.343692,149.035797,2123,154102,37
+PLGR391,Yanda Street Neighbourhood Park,Local Neighbourhood,Fair,Waramanga,224.0,-35.350608,149.065606,2203,145240,36
+PLGR117,Bowling Place Neighbourhood Park,Local Neighbourhood,Fair,Spence,343.1,-35.205491,149.065887,2698,183798,15
+PLGR485,Canaway Place Pedestrian Parkland,Local Neighbourhood,Fair,Evatt,417.2,-35.218396,149.060829,1585,169304,15
+PLGR487,Gwydir Sq Kaleen Shopping Centre,Local Neighbourhood,Fair,Kaleen,191.6,-35.234209,149.103461,2900,214977,9
+PLGR488,Campaspe Circuit Pedestrian Parkland,Local Neighbourhood,Good,Kaleen,610.8,-35.229028,149.108348,1933,159257,38
+PLGR489,Wakefield Gardens Neighbourhood Park,Local Neighbourhood,Fair,Ainslie,245.6,-35.261688,149.144181,2509,157906,8
+PLGR490,Hackett Gardens Neighbourhood Park,Local Neighbourhood,Fair,Turner,220.7,-35.271,149.121483,2739,153016,42
+PLGR491,Dirrawan Gardens Neighbourhood Park,Local Neighbourhood,Fair,Reid,233.7,-35.282598,149.139914,2942,195526,44
+PLGR493,Hawker Shopping Centre,Central Community,Good,Hawker,165.0,-35.243424,149.043896,4645,220155,10
+PLGR494,Boniwell Street Neighbourhood Park,Local Neighbourhood,Fair,Higgins,1693.7,-35.232449,149.030179,2864,174428,4
+PLGR495,Mc Quade Close Neighbourhood Park,Local Neighbourhood,Fair,Charnwood,256.5,-35.196196,149.032144,2947,221217,23
+PLGR496,Sanderson Close Pedestrian Parkland,Local Neighbourhood,Fair,Flynn,200.3,-35.207501,149.043998,1305,149003,43
+PLGR497,Macrossan Crescent Neighbourhood Park,Local Neighbourhood,Fair,Latham,190.5,-35.217509,149.033845,3573,210227,14
+PLGR499,Armstrong Crescent Neighbourhood Park,Local Neighbourhood,Fair,Holt,237.5,-35.221071,149.009735,2804,175333,37
+PLGR500,Sandalwood Street Neighbourhood Park,Central Community,Fair,Kingston,275.6,-35.316807,149.152753,1908,92681,46
+PLGR501,Casson Crescent Neighbourhood Park,Local Neighbourhood,Fair,Richardson,305.8,-35.423467,149.10837,2565,186728,27
+PLGR502,Nemerang Crescent Neighbourhood Park,Local Neighbourhood,Good,Waramanga,393.6,-35.357353,149.063597,3050,180398,45
+PLGR503,Rosson Place Pedestrian Parkland,Local Neighbourhood,Fair,Isaacs,224.1,-35.372588,149.112386,2193,160754,24
+PLGR513,Kitson Place Neighbourhood Park,Local Neighbourhood,Poor,Florey,227.4,-35.226572,149.038756,1937,154315,7
+PLGR510,Gillespie Street Pedestrian Parkland,Local Neighbourhood,Good,Weetangera,245.3,-35.250754,149.046539,1759,161169,10
+PLGR529,Cnr Dorothy Green Cr And Patrick White Cct,Local Neighbourhood,Fair,Franklin,329.4,-35.205538,149.136789,2985,171354,12
+PLGR530,Cnr Christina Stead St And Ballantyne Cr,Local Neighbourhood,Fair,Franklin,460.2,-35.202626,149.142539,3645,238273,8
+PLGR642,Whitrod Avenue Neighbouhood Park,Local Neighbourhood,Good,Casey,326.3,-35.159807,149.099214,7455,322193,7
+PLGR660,Chipp Street Neighbourhood Park,Local Neighbourhood,Fair,Coombs,251.8,-35.315061,149.043243,3951,221133,9
+PLGR620,Coree - Cotter Road,Rural,Surrounding Trees,Paddys River (rural District),656.6,-35.323777,148.941357,949,118165,11
+PLGR617,Adlard Place - Pedestrian Parkland,Local Neighbourhood,Fair,Gungahlin,309.2,-35.183124,149.145679,4629,232199,14
+PLGR619,Pahlman Street Neighbourhood Park,Central Community,Good,Forde,734.7,-35.168281,149.146475,5103,272086,8
+PLGR618,Clyde Finlay Street Neighbourhood Park,Local Neighbourhood,Good,Macgregor,129.7,-35.208629,149.001844,2501,136998,8
+PLGR667,Slim Dusty Circuit Neighbourhood Park,Local Neighbourhood,Surrounding Trees,Moncrieff,584.5,-35.155018,149.111776,3208,231778,2
+PLGR670,Noffs Crescent Neighbourhood Park,Local Neighbourhood,Moderate,Coombs,195.1,-35.323289,149.050522,1643,147589,4
+PLGR668,Terry Connolly Street Pedestrian Parkland,Local Neighbourhood,Fair,Coombs,618.6,-35.321394,149.044992,2796,225944,4
+PLGR542,Eldershaw Crescent Neighbourhood Park,Local Neighbourhood,No Shade,Dunlop,367.4,-35.18703,149.020469,2292,160357,7
+PLGR535,Burgoyne Street Neighbourhood Park,Central Community,No Shade,Bonython,783.4,-35.426435,149.071596,5542,246067,5
+PLGR537,Tidbinbilla Nature Reserve,Rural,Poor,Paddys River (rural District),3300.9,-35.44294,148.929846,899,92373,1
+PLGR538,Pine Island Road,Rural,Fair,Greenway,389.6,-35.427362,149.060131,0,42186,11
+PLGR539,Cotter Road,Rural,Good,Stromlo (rural District),102.2,-35.319925,148.954465,241,40090,5
+PLGR545,Hanrahan Crescent Neighbourhood Park,Local Neighbourhood,Fair,Dunlop,337.9,-35.186147,149.031017,2460,142318,7
+PLGR543,Mag Place Neighbourhood Park,Local Neighbourhood,Fair,Dunlop,334.4,-35.191569,149.032111,3572,185824,3
+PLGR591,Tubman Place Pedestrian Parkland,Local Neighbourhood,Fair,Nicholls,282.3,-35.183839,149.101754,3105,236204,10
+PLGR607,James Smith Circuit Pedestrian Parkland,Local Neighbourhood,Fair,Conder,294.3,-35.450295,149.093954,2901,161912,12
+PLGR658,Bellbird Loop Neighbourhood Park,Local Neighbourhood,,Lawson,350.3,-35.229584,149.087823,3913,217959,25
+PLGR653,Tishler Street Neighbourhood Park,Local Neighbourhood,Fair,Wright,586.7,-35.318585,149.034717,3544,172372,11
+PLGR654,Banjo Patterson Avenue Neighbourhood Park,Local Neighbourhood,Fair,Wright,598.4,-35.321403,149.035324,5839,274059,30
+PLGR651,Mcconchie Circuit Neighbourhood Park,Local Neighbourhood,Poor,Weston,390.1,-35.321862,149.059486,2520,106859,4
+PLGR652,Bindugan Crescent Neighbourhood Park,Local Neighbourhood,Good,Ngunnawal,196.7,-35.163236,149.106071,3440,214592,10
+PLGR649,Jeanne Young Circuit Pedestrian Parkland,Local Neighbourhood,Poor,Mckellar,287.2,-35.215922,149.082066,2033,158102,7
+PLGR650,Thyne Street Semi Natural Open Space,Local Neighbourhood,Good,Bruce,354.3,-35.242517,149.097501,1982,165969,12
+PLGR532,Bryan Hudson Street Neighbourhood Park,Local Neighbourhood,No Shade,Macgregor,262.3,-35.214445,149.00487,4043,219908,3
+PLGR582,Boddington Crescent (north) Neighbourhood Park,Central Community,Good,Kambah,367.4,-35.383317,149.052087,1506,193543,15
+PLGR586,Morice Place Neighbourhood Park,Local Neighbourhood,Poor,Bonython,263.7,-35.433088,149.085283,2641,220195,12
+PLGR590,Rivett Place Neighbourhood Park,Central Community,Good,Rivett,480.1,-35.347707,149.038011,2787,209464,4
+PLGR584,Beaurepaire Crescent Neighboourhood Park,Central Community,Good,Holt,348.3,-35.222221,149.012676,2687,215377,7
+PLGR587,Cnr Bonython And Melba Sts Neighbourhood Park,Central Community,Poor,Downer,587.2,-35.246393,149.143307,1839,114372,48
+PLGR580,Summerland Circuit (north) Neighbourhood Park,Central Community,Good,Kambah,652.8,-35.385579,149.071442,2627,223761,6
+PLGR583,Templeton Street Neighbourhood Park,Central Community,Good,Cook,474.0,-35.258956,149.061925,3289,201051,23
+PLGR626,Narden Street Community Recreation Irrigated Park,Central Community,Good,Crace,992.6,-35.201662,149.102584,4885,289399,8
+PLGR627,Albatross Crescent Neighbourhood Park,Local Neighbourhood,Poor,Harrison,296.9,-35.206874,149.157608,3743,212449,6
+PLGR623,Pearl Gibbs Circuit Neighbourhood Park,Local Neighbourhood,Good,Bonner,296.1,-35.156006,149.143582,2107,145502,20
+PLGR624,Neidjie Close Neighbourhood Park,Local Neighbourhood,No Shade,Bonner,213.0,-35.154115,149.15033,4138,266433,7
+PLGR622,Medhurst Crescent Neighbourhood Park,Local Neighbourhood,,Crace,264.3,-35.197398,149.1071,4326,239351,7
+PLGR671,Bettong Avenue Neighbouhood Playground,Local Neighbourhood,Poor,Throsby,201.2,-35.196402,149.166538,3116,214544,7
+PLGR593,Fernando Street Neighbourhood Park,Local Neighbourhood,,Bonner,169.8,-35.161885,149.136311,2821,183873,7
+PLGR592,Spec Place Neighbourhood Park,Local Neighbourhood,Fair,Palmerston,225.4,-35.197401,149.112825,1644,94136,5
+PLGR594,Neil Harris Crescent District Park,Central Community,Good,Forde,798.4,-35.172947,149.141332,4701,263900,9
+PLGR678,Florence Taylor Street,Local Neighbourhood Natural,Good,Greenway,177.8,-35.403559,149.066669,595,71003,31
+PLGR679,Mortimer Lewis Drive,Central Community,Good,Greenway,352.6,-35.407179,149.070972,1296,106062,33
+PLGR680,Sutherland Crescent Neighbourhood Park,Central Community,Good,Taylor,1732.4,-35.151065,149.108547,3162,203735,4
+PLGR681,Mottram Street Pedestrian Parkland,Local Neighbourhood,Good,Taylor,679.5,-35.150637,149.101923,5275,274363,8
+PLGR685,Canopus Crescents Pedestrian Parkland,Local Neighbourhood Natural,,Giralang,1112.2,-35.213253,149.094807,1848,186866,22
+PLGR693,Ada Norris Avenue Neighbourhood Park,Central Neighbourhood,Good,Denman Prospect,2260.2,-35.303396,149.029131,3785,229778,1
+PLGR694,Judith Macintosh Crescent Neighbourhood Park,Local Neighbourhood Natural,Good,Taylor,3213.7,-35.147995,149.114603,3901,232696,34
+PLGR696,Blue Poles Park,Central Community,,Whitlam,2589.4,-35.275326,149.039742,3330,192876,6
+PLGR697,Ruth Park,Central Community,Good,Coombs,1620.0,-35.31388,149.037629,0,12699,8
+PLGR698,Paddys Park,Central Community,Good,Strathnairn,1231.5,-35.227548,148.994033,4721,264074,6
+PLGR699,Cravens Crossing Park,Local Neighbourhood,Good,Denman Prospect,928.6,-35.30308,149.017782,3261,203117,3
+PLGR700,Kissel Close Neighbourhood Park,Local Neighbourhood Natural,Fair,Strathnairn,1163.2,-35.223477,148.996028,3613,185474,3
+PLGR701,Jill Landsberg Terrace Neighbourhood Park,Local Neighbourhood,Fair,Strathnairn,408.6,-35.224968,148.991311,6252,303325,7
+PLGR703,Maliyan Park,Local Neighbourhood,Good,Watson,1479.0,-35.229923,149.160486,0,10182,7
+PLGR705,Zubrzycki Crescent Neighbourhood Park,Central Neighbourhood,Moderate,Jacka,1124.0,-35.152141,149.125977,2584,172490,7
+PLGR706,Inge King Crescent Neighbourhood Park,Local Neighbourhood,Fair,Whitlam,577.9,-35.280581,149.035045,4282,244104,21
+PLGR707,Yeend Avenue Community Recreation Irrigated Park,Central Community,Fair,Casey,841.4,-35.167708,149.097783,2477,158981,6
+PLGR708,Denman Village Park,Central Community,Moderate,Denman Prospect,849.8,-35.298607,149.02292,2598,154151,6
+PLGR711,Lyons Informal Use Oval,Local Neighbourhood,Moderate,Lyons,644.4,-35.339969,149.077842,2587,237927,11
+PLGR715,Mcclure Street Pedestrian Parkland,Local Neighbourhood,Fair,Evatt,257.8,-35.208577,149.073626,2793,197188,11
+PLGR716,Lex Watson Circuit Neighbourhood Park,Local Neighbourhood,Good,Denman Prospect,904.3,-35.292891,149.02295,3814,257856,15
+PLGR718,Kaminski Street Neighbourhood Park,Local Neighbourhood,Moderate,Macnamara,983.0,-35.222386,148.974688,1549,95739,3
+PLGR713,Burton Street Community Recreation Irrigated Park,Central Community,Moderate,Watson,1447.4,-35.239723,149.151711,3470,183822,17
+PLGR714,Sprent Street Neighbourhood Park,Local Neighbourhood,Good,Narrabundah,331.9,-35.338925,149.141611,1834,110053,34
+PLGR588,Dillon Close Neighbourhood Park,Central Community,Good,Weston,653.5,-35.337251,149.054864,2544,173816,16
+PLGR655,Kilmeny Close Community Recreation Irrigated Park,Central Community,Good,Franklin,954.3,-35.197615,149.144035,3895,232382,9
+PLGR278,Point Hut District Park,District,Good,Gordon,3413.7,-35.455965,149.083902,2412,122422,28
+PLGR290,Cowie Place Neighbourhood Park,Local Neighbourhood,Fair,Kambah,383.7,-35.396268,149.058132,2226,166611,41
+PLGR295,Broun Place Pedestrian Parkland,Local Neighbourhood,Fair,Kambah,460.5,-35.389824,149.073222,3877,235657,5
+PLGR305,Kambah District Park,District,Good,Kambah,4003.3,-35.392205,149.063717,485,99724,13
+PLGR345,Dumolo Place Neighbourhood Park,Central Community,Fair,Isaacs,488.1,-35.368309,149.111223,1986,174588,13
+PLGR381,Edison District Park,District,Fair,Phillip,2590.2,-35.340902,149.091522,1778,148428,6
+PLGR9,Duffield Place Neighbourhood Park,Local Neighbourhood,Fair,Downer,312.9,-35.244725,149.14879,2566,163684,35
+PLGR94,O'sullivan Street Neighbourhood Park,Local Neighbourhood,Good,Higgins,160.0,-35.237151,149.028976,2625,165072,53
+PLGR98,Umbagong District Park,District,Fair,Latham,237.4,-35.211487,149.030568,1885,200697,5
+PLGR130,Ginninderra Peninsula District Park,District,Good,Belconnen,404.0,-35.225265,149.069296,612,63429,72
+PLGR134,Macdermott Place Road Verge,District,Fair,Belconnen,1617.6,-35.227128,149.062776,1337,139995,12
+PLGR211,Weston Park,District,Good,Yarralumla,1414.0,-35.292188,149.089166,623,95683,18
+PLGR228,Fadden Pines District Park,District,Good,Fadden,1130.2,-35.410986,149.120964,815,122593,8
+PLGR523,Eric Mawson Street Neigbourhood Park,Local Neighbourhood,Good,Harrison,530.6,-35.203629,149.151805,3607,198569,6
+PLGR675,Yunggaballi Neighbourhood Park,Local Neighbourhood,Good,Moncrieff,524.0,-35.160689,149.119177,3202,237359,9
+PLGR689,Dot Butler Street Neighbourhood Park,Local Neighbourhood,,Wright,328.6,-35.324509,149.036988,5218,276823,8
+PLGR492,Black Mountain Peninsula District Park,District,Good,Acton,1350.1,-35.292259,149.101305,322,22598,8
+PLGR666,Hassett Park,Local Neighbourhood,No Shade,Campbell,436.2,-35.289092,149.144365,3976,215393,12
+PLGR546,Yerrabi District Park,District,Good,Gungahlin,4153.1,-35.179116,149.129883,1056,135594,29
+PLGR533,John Knight Memorial Park,District,Good,Belconnen,1203.1,-35.236195,149.075104,1001,156078,14
+PLGR673,Anketell Street Neighbourhood Park,Central Community,,Greenway,729.7,-35.420188,149.072903,2715,218735,7
+PLGR722,Umbagong District Park,District,Fair,Latham,220.4,-35.214334,149.025634,711,153292,4
+PLGR723,Ginninderra Peninsula District Park,District,Fair,Belconnen,297.5,-35.229295,149.074483,968,120355,18
